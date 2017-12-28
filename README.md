@@ -1,1 +1,1 @@
-Blog app using Node js, Express,Mongoose,ejs and bootstrap4
+Blog app using Node js, Express,Mongoose,ejs and Semantic UI
